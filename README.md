@@ -42,6 +42,7 @@ To create a 3D model from given orthographic projection.
 ![image](https://user-images.githubusercontent.com/113594316/198823540-38a1b79a-1f68-4876-add9-adf59b98b386.png)
 
 ## OUTPUT:
+![EDM Ex 3 2 Logesh N_1](https://github.com/Logesh051/EX.-No.3.2.-CREATE-3D-MODEL-FROM-ORTHOGRAPHIC-PROJECTION/assets/144979188/b00e51e1-d4ae-4d76-bc62-b525122d1f8a)
 
 ## RESULT:
 Thus, 3D model is created from orthographic projection.
